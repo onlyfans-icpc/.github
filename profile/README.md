@@ -9,3 +9,11 @@
 * Amirreza Rezaei
 * Ali Abedini
 * Rahmat Ansari
+
+🚀 The last competition we participated in was [the relay programming competition](https://srpc.pod.ir/login) from [Dotin](https://www.dotin.ir/).
+
+👥 new Team members:
+* Amirreza Rezaei
+* Ali Ghanbari
+* Alireza Holghi
+* Rahmat Ansari
